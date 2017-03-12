@@ -1,0 +1,46 @@
+h3{
+	font-size:110%;
+	background-color: white;
+   }
+  *{
+  	box-sizing: border-box;
+  }
+
+div {
+	background-color: #00ffff;
+    }
+
+p{ 
+	width: 32%;
+	padding: 10px;
+	float:left;
+	 }
+#box {
+	box-sizing: border-box;
+	
+	
+	border: 0px;
+	margin: 10px
+	width: 33%;
+    align-items: left 
+    }
+#box1{box-sizing: border-box;
+	
+	
+	border: 0px;
+	margin: 10px
+    width: 33%;
+    align-items: center;
+    }
+#box2{box-sizing: border-box;
+	
+	
+	border: 0px;
+	margin: 10px
+	width: 33%;
+    align-items: right
+    } 
+}
+     
+
+
